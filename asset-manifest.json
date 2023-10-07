@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Social-proof-section/static/css/main.1a17cddf.css",
+    "main.js": "/Social-proof-section/static/js/main.c74882bc.js",
+    "index.html": "/Social-proof-section/index.html",
+    "static/media/bottom-desk.svg": "/Social-proof-section/static/media/bottom-desk.32aa6571dc718836bdfc.svg",
+    "static/media/top-desk.svg": "/Social-proof-section/static/media/top-desk.9d4ba9c9b19e4c6be1e6.svg",
+    "static/media/top-mob.svg": "/Social-proof-section/static/media/top-mob.58eed600d32e18ece9dc.svg",
+    "static/media/star.svg": "/Social-proof-section/static/media/star.2d8e7b7cb342bc812e9df51d276eaa78.svg",
+    "main.1a17cddf.css.map": "/Social-proof-section/static/css/main.1a17cddf.css.map",
+    "main.c74882bc.js.map": "/Social-proof-section/static/js/main.c74882bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a17cddf.css",
+    "static/js/main.c74882bc.js"
+  ]
+}
