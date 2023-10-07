@@ -1,13 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=League+Spartan:wght@400;500;700&display=swap");
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+  background: url("../src//images//top-desk.svg") top left no-repeat,
+    url("../src/images/bottom-desk.svg") top 90% left 20% no-repeat;
+  background-color: hsl(0, 0%, 100%);
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: "League Spartan", sans-serif;
+}
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+}
+@media (max-width: 780px) {
+  body {
+    background: url("../src//images//top-mob.svg") top left no-repeat;
+  }
 }
